@@ -1,0 +1,8 @@
+.catalog__center {
+   flex: 1 1 100%;
+   display: flex;
+   justify-content: center;
+}
+.flex-box {
+   flex: 1 1 100%;
+}
